@@ -1,5 +1,5 @@
-feature 1 implementation
+config1:abc
 
-feature 2 implementation
+config2:123
 
-feature 3 implementation
+config3:xyz
